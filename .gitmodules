@@ -1,0 +1,12 @@
+[submodule "star"]
+	path = star
+	url = https://github.com/MRE-Lab-UMD/star.git
+[submodule "rtt_iiwa_msgs"]
+	path = rtt_iiwa_msgs
+	url = https://github.com/MRE-Lab-UMD/rtt_iiwa_msgs.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/MRE-Lab-UMD/tools.git
+[submodule "ati"]
+	path = ati
+	url = https://github.com/MRE-Lab-UMD/ati.git
