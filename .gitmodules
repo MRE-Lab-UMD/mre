@@ -10,3 +10,6 @@
 [submodule "ati"]
 	path = ati
 	url = https://github.com/MRE-Lab-UMD/ati.git
+[submodule "iiwa_stack"]
+	path = iiwa_stack
+	url = https://github.com/SalvoVirga/iiwa_stack.git
