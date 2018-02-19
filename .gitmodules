@@ -13,3 +13,7 @@
 [submodule "iiwa_stack"]
 	path = iiwa_stack
 	url = https://github.com/SalvoVirga/iiwa_stack.git
+[submodule "ur_modern_driver"]
+	path = ur_modern_driver
+	url = https://github.com/iron-ox/ur_modern_driver.git
+	branch = iron-kinetic-devel
